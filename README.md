@@ -33,7 +33,8 @@ Features of the application include:
 10  Outbox and Inbox can be accessed by the user
 
 11  If any messages are unchecked, it is indicated by a Filled Mailbox image
-    Otherwise, the image is an Empty Mailbox
+
+        Otherwise, the image is an Empty Mailbox
     
 12  A Feedback Form for the user to submit.  
 
